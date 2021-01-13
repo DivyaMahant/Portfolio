@@ -74,6 +74,11 @@ p {
   margin: 100px 0;
 }
 
+.intro {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
